@@ -25,5 +25,4 @@
             <aop:around method="around" pointcut-ref="beforePointCut"/>
         </aop:aspect>
     </aop:config>
-
 </beans>
